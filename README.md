@@ -19,5 +19,4 @@ git clone https://github.com/Ho3einTahan/PasswordGenerator.git
 
 ### Thanks For Watching
 
-#### DEVELOPED BY
-### © 2025, Ho3einTahan. All rights reserved.
+## © 2025, Ho3einTahan. All rights reserved.
